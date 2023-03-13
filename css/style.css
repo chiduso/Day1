@@ -1,4 +1,9 @@
 body {
   background-image: url("../img/Wiretap.jpg");
-  bac
+  color: #1e3264;
+}
+
+.fp-1 {
+ font-size: 4rem;
+ font-weight: 500;
 }
