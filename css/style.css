@@ -1,6 +1,6 @@
 body {
   background-image: url("../img/Sublime.jpg");
-  color: #1e3264;
+  color: #0f1a34;
   background-size: cover;
 }
 
@@ -8,3 +8,15 @@ body {
  font-size: 4rem;
  font-weight: 500;
 }
+
+nav {
+  /* background-image: url("../img/Wiretap.jpg"); */
+}
+
+nav div ul li a:hover {
+  border-bottom: 1px solid white;
+}
+
+/* #whatsimg{
+  box-shadow: 5px 5px 0 0 black;
+} */
